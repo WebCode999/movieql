@@ -13,5 +13,9 @@
         "statusBarItem.hoverBackground": "#083208",
         "statusBar.foreground": "#e7e7e7"
     },
-    "peacock.color": "#010601"
+    "peacock.color": "#010601",
+    "files.associations": {
+        "*.ttml": "xml",
+        "*.ttss": "css"
+    }
 }
